@@ -5,11 +5,11 @@
 </h4>
 
 ---
-## Description
+## 🆘 Description
 
 Content Based Machine Learning Recommending System build with the power of [`cosine similarities`](https://en.wikipedia.org/wiki/Cosine_similarity).
 
-## Technologies Used
+## 💻 Technologies Used
 ### Web Technologies
 - Python
 - SQLite
@@ -20,5 +20,8 @@ Content Based Machine Learning Recommending System build with the power of [`cos
 - Pandas
 - SciPy
 
-## Usage
+## 🔥 Usage
 The web application is avaliable [`here`](https://recomendacao-filmes-tq33.herokuapp.com/)
+
+## 📖 License
+[`MIT`](https://github.com/thiago-osorio/movie-recommender-system/blob/main/LICENSE)
