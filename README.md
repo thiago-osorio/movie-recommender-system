@@ -1,13 +1,13 @@
 # Movie-Recommender-System
 
 <h4 align="center">
-  Machine learning movie recommending system
+  Machine Learning Movie Recommending System
 </h4>
 
 ---
 ## Description
 
-Content Based Machine Learning recommending system build with the power of [`cosine similarities`](https://en.wikipedia.org/wiki/Cosine_similarity).
+Content Based Machine Learning Recommending System build with the power of [`cosine similarities`](https://en.wikipedia.org/wiki/Cosine_similarity).
 
 ## Technologies Used
 ### Web Technologies
